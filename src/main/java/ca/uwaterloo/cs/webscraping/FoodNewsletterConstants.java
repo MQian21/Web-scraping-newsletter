@@ -10,7 +10,7 @@ public interface FoodNewsletterConstants {
     public final String MAIL_SERVER_PORT= "587";
     public final String MAIL_SERVER_TLS_VERSION= "TLSv1.2";
     public final String MAIL_SERVER_USERNAME= "1894acea0ca645";
-    public final String MAIL_SERVER_PASSWORD= "b0660618eaf8b1";
+    public final String MAIL_SERVER_PASSWORD= "XXXXXXXXXXXXX";
     public final String MAIL_SERVER_AUTH = "true";
     public final String MAIL_SERVER_TLS_ENABLED = "true";
 }
